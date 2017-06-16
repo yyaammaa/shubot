@@ -212,3 +212,11 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+
+
+# メモ
+
+- masterにpushするとherokuに自動デプロイされます
+  - https://dashboard.heroku.com/apps/hubot-shubot-yyaammaa/
+- セットアップのときに参考にしたページ
+  - http://qiita.com/chibi929/items/79161111dee411000411
