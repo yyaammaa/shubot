@@ -216,7 +216,5 @@ you're having issues.
 
 # メモ
 
-- masterにpushするとherokuに自動デプロイされます
-  - https://dashboard.heroku.com/apps/hubot-shubot-yyaammaa/
 - セットアップのときに参考にしたページ
   - http://qiita.com/chibi929/items/79161111dee411000411
